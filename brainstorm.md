@@ -10,6 +10,10 @@ iOS App Dev Brainstorming
 
 **Things to do near me App** - Gets current location and provides a list of things to do nearby
 
+**Productivity App** - Contains a way to set a to do list, long term goals, short term goals, and shows your progress in organized ways
+
+**Tetris App** - Recreate the classic game of tetris!
+
 
 ## Top 2 Ideas
 Skincare Reminder App
