@@ -3,6 +3,23 @@ Original App Design Project - README Template
 
 # Glowly
 
+Features Completed:
+
+Week 2/Unit 9:
+[X] Set up the calendar page
+    [X] Build a custom calendar component
+[X] Set up Tab navigation between pages
+[X] Set up Dashboard page 
+[X] Build detailed Figma Wireframes to base UI off of
+
+![Untitled](https://github.com/vaishunall/capstone-project/assets/72366072/fabac347-3a00-4967-b1b2-bd793d44679a)
+
+
+Week 1/Unit 8:
+[X] Created Low Fidelty Wireframes
+[X] App loading page
+[X] Designed app logo
+
 ## Table of Contents
 
 1. [Overview](#Overview)
