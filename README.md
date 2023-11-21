@@ -5,6 +5,24 @@ Original App Design Project - README Template
 
 Features Completed:
 
+Unit 10:
+
+[X] Working on conditional components for days and connecting them to views
+
+[X] Resolved DashboardViewController issue from last week
+
+[X] Refined UI on Dashboard page
+
+[X] Refined Wireframes to reflect current changes
+
+<img width="769" alt="Screenshot 2023-11-21 at 2 20 42 PM" src="https://github.com/vaishunall/capstone-project/assets/72366072/5c2bb60c-6efb-4683-9651-d6dd9e56be0b">
+
+
+![Kapture 2023-11-21 at 14 17 10](https://github.com/vaishunall/capstone-project/assets/72366072/f7cc57e3-6fde-41cb-b8ab-6f46a756a916)
+
+
+
+
 Week 2/Unit 9:
 
 [X] Set up the calendar page
