@@ -22,37 +22,25 @@ extension UIView {
 class ViewController: UIViewController {
 
     @IBOutlet weak var calendarTitleText: UILabel!
+    @IBOutlet weak var calendarView: UIStackView!
     
-    @IBOutlet weak var CalendarView: UIStackView!
-    @IBOutlet weak var sunView: UIView!
-    @IBOutlet weak var monView: UIView!
-    @IBOutlet weak var tueView: UIView!
-    @IBOutlet weak var wedView: UIView!
-    @IBOutlet weak var thuView: UIView!
-    @IBOutlet weak var friView: UIView!
-    @IBOutlet weak var satView: UIView!
+    @IBOutlet weak var sunButton: UIButton!
+    @IBOutlet weak var monButton: UIButton!
+    @IBOutlet weak var tueButton: UIButton!
+    @IBOutlet weak var wedButton: UIButton!
+    @IBOutlet weak var thuButton: UIButton!
+    @IBOutlet weak var friButton: UIButton!
+    @IBOutlet weak var satButton: UIButton!
     
-    
+    @IBAction func onClickSun(_ sender: Any) {
+        sunButton.backgroundColor = UIColor(red: 144, green: 177, blue: 255, alpha: 1.0)
+        
+    }
     
     override func viewDidLoad() {
         
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        sunView.dropShadow()
-        monView.dropShadow()
-        tueView.dropShadow()
-        wedView.dropShadow()
-        thuView.dropShadow()
-        friView.dropShadow()
-        satView.dropShadow()
-        
-        (sunView.layer.cornerRadius,
-         monView.layer.cornerRadius,
-        tueView.layer.cornerRadius,
-        wedView.layer.cornerRadius,
-        thuView.layer.cornerRadius,
-        friView.layer.cornerRadius,
-         satView.layer.cornerRadius) = (6, 6,  6, 6, 6, 6, 6);
         
     }
 
