@@ -7,7 +7,7 @@ Features Completed:
 
 Unit 10:
 
-[X] Working on conditional components for days and connecting them to views
+[X] Implemented Skincare Card with editable steps and selectable time
 
 [X] Resolved DashboardViewController issue from last week
 
@@ -15,12 +15,12 @@ Unit 10:
 
 [X] Refined Wireframes to reflect current changes
 
+
+![Kapture 2023-11-21 at 21 07 47](https://github.com/vaishunall/capstone-project/assets/72366072/2144e73a-89ef-4d2f-894c-24f2709d983e)
+
+
+
 <img width="769" alt="Screenshot 2023-11-21 at 2 20 42 PM" src="https://github.com/vaishunall/capstone-project/assets/72366072/5c2bb60c-6efb-4683-9651-d6dd9e56be0b">
-
-
-![Kapture 2023-11-21 at 14 17 10](https://github.com/vaishunall/capstone-project/assets/72366072/f7cc57e3-6fde-41cb-b8ab-6f46a756a916)
-
-
 
 
 Week 2/Unit 9:
