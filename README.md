@@ -1,11 +1,7 @@
-Original App Design Project - README Template
-===
-
 # SkincareTracker
 
 Features Completed:
 
-Unit 10:
 
 [X] Implemented Skincare Card with editable steps and selectable time
 
@@ -14,17 +10,6 @@ Unit 10:
 [X] Refined UI on Dashboard page
 
 [X] Refined Wireframes to reflect current changes
-
-
-![Kapture 2023-11-21 at 21 07 47](https://github.com/vaishunall/capstone-project/assets/72366072/2144e73a-89ef-4d2f-894c-24f2709d983e)
-
-
-
-<img width="769" alt="Screenshot 2023-11-21 at 2 20 42 PM" src="https://github.com/vaishunall/capstone-project/assets/72366072/5c2bb60c-6efb-4683-9651-d6dd9e56be0b">
-
-
-Week 2/Unit 9:
-
 [X] Set up the calendar page
 
 [X] Build a custom calendar component
@@ -35,17 +20,20 @@ Week 2/Unit 9:
 
 [X] Build detailed Figma Wireframes to base UI off of
 
-
-![Untitled](https://github.com/vaishunall/capstone-project/assets/72366072/fabac347-3a00-4967-b1b2-bd793d44679a)
-
-
-Week 1/Unit 8:
-
 [X] Created Low Fidelty Wireframes
 
 [X] App loading page
 
 [X] Designed app logo
+
+
+
+![Kapture 2023-11-21 at 21 07 47](https://github.com/vaishunall/capstone-project/assets/72366072/2144e73a-89ef-4d2f-894c-24f2709d983e)
+
+
+
+![Untitled](https://github.com/vaishunall/capstone-project/assets/72366072/fabac347-3a00-4967-b1b2-bd793d44679a)
+
 
 
 ## Table of Contents
@@ -63,7 +51,6 @@ A skincare app which allows for users to build their skincare routine and reciev
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Lifestyle/Selfcare
 - **Mobile:** This app is unique to the phone because it is meant to send notifications for skincare in the AM and PM in a place that is most accesible to the user. Most people tend to check their phone first thing in the morning or before they go to sleep, allowing them to see the app notif and resolve it.
 - **Story:** Allows for users to do their skincare day and night without skipping it as many people buy the products but have a harder time keeping up their regimen. This is somthing me and my friends struggle with, so I know it would definitely help us personally.
@@ -73,7 +60,7 @@ A skincare app which allows for users to build their skincare routine and reciev
 
 ## Product Spec
 
-### 1. User Stories (Required and Optional)
+### 1. User Stories
 
 **Required Must-have Stories**
 
@@ -114,25 +101,9 @@ A skincare app which allows for users to build their skincare routine and reciev
 
 ## Wireframes
 
-**Note: Created Low Fidelity Wireframes Digitally on Figma, instead of on paper as I found it to be easier to change and rearrange**
+**Low Fidelity and High Fidelity**
+
+<img width="769" alt="Screenshot 2023-11-21 at 2 20 42 PM" src="https://github.com/vaishunall/capstone-project/assets/72366072/5c2bb60c-6efb-4683-9651-d6dd9e56be0b">
 
 <img width="553" alt="Screenshot 2023-11-07 at 12 28 00 AM" src="https://github.com/vaishunall/capstone-project/assets/72366072/c65da121-ac69-4d47-be42-a514726841ee">
 
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-
-[This section will be completed in Unit 9]
-
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
