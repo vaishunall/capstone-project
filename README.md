@@ -32,7 +32,7 @@ Features Completed:
 
 
 
-![Untitled](https://github.com/vaishunall/capstone-project/assets/72366072/fabac347-3a00-4967-b1b2-bd793d44679a)
+<img src="https://github.com/vaishunall/capstone-project/assets/72366072/fabac347-3a00-4967-b1b2-bd793d44679a" width="275"/>
 
 
 
